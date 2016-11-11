@@ -1,0 +1,26 @@
+# while list
+/*
+
+!/.gitignore
+!/READM*
+!/LICENSE*
+!/CMakeLists.txt
+!/lib
+!/test
+/test/**
+!/test/CMakeLists.txt
+!/test/*/
+/test/*/**
+!/test/*/*.cpp
+
+# !/src
+# /src/**
+# !/src/*.cpp
+# !/src/*.hpp
+# !/src/*.h
+# !/result
+# !/dataset
+# !/test
+# /test/**
+# !/test/*.cpp
+# !/experiments
